@@ -1,0 +1,309 @@
+//Jesse Zhong, jwz2111
+
+Welcome to the RPS game!
+As a reminder, rock beats scissors, scissors beats paper, and paper beats rock.
+When prompted, enter 'r' for rock, 'p' for paper, and 's' for scissors.
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+The game has ended.
+I've won 38 games (38.0%)
+You've won 32 games (32.0%)
+We've tied 30 games (30.0%)

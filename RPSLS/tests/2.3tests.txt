@@ -1,0 +1,609 @@
+//Jesse Zhong, jwz2111
+
+Welcome to the RPSSL game!
+As a reminder, rock beats scissors and lizard, paper beats rock and Spock, scissors beats paper and lizard, Spock beats scissors and rock, and lizard beats Spock and paper.
+When prompted, enter 'r' for rock, 'p' for paper, 's' for scissors, 'S' for Spock, and 'l' for lizard.
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+p
+You win: Your paper beats my Spock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+p
+You win: Your paper beats my Spock
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+S
+We tied: We both played Spock
+Enter a valid character
+S
+You win: Your Spock beats my rock
+Enter a valid character
+S
+I win: My lizard beats your Spock
+Enter a valid character
+s
+You win: Your scissors beats my lizard
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+l
+I win: My rock beats your lizard
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+s
+You win: Your scissors beats my lizard
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+S
+I win: My paper beats your Spock
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+I win: My rock beats your lizard
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+You win: Your lizard beats my paper
+Enter a valid character
+p
+You win: Your paper beats my Spock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+S
+We tied: We both played Spock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+p
+You win: Your paper beats my Spock
+Enter a valid character
+S
+You win: Your Spock beats my rock
+Enter a valid character
+S
+We tied: We both played Spock
+Enter a valid character
+s
+You win: Your scissors beats my lizard
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+S
+I win: My lizard beats your Spock
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+You win: Your rock beats my lizard
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+p
+You win: Your paper beats my Spock
+Enter a valid character
+r
+You win: Your rock beats my lizard
+Enter a valid character
+p
+I win: My lizard beats your paper
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+S
+I win: My lizard beats your Spock
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+I win: My scissors beats your lizard
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+S
+I win: My paper beats your Spock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+p
+You win: Your paper beats my Spock
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+l
+You win: Your lizard beats my paper
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+r
+You win: Your rock beats my lizard
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+l
+We tied: We both played lizard
+Enter a valid character
+r
+You win: Your rock beats my lizard
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+S
+You win: Your Spock beats my scissors
+Enter a valid character
+S
+I win: My paper beats your Spock
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+We tied: We both played lizard
+Enter a valid character
+l
+We tied: We both played lizard
+Enter a valid character
+l
+I win: My rock beats your lizard
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+l
+I win: My rock beats your lizard
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+p
+I win: My scissors beats your paper
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+S
+You win: Your Spock beats my scissors
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+I win: My scissors beats your lizard
+Enter a valid character
+s
+You win: Your scissors beats my lizard
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+S
+We tied: We both played Spock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+You win: Your lizard beats my paper
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+S
+You win: Your Spock beats my rock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+S
+We tied: We both played Spock
+Enter a valid character
+l
+You win: Your lizard beats my paper
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+S
+I win: My paper beats your Spock
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+l
+You win: Your lizard beats my paper
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+S
+I win: My paper beats your Spock
+Enter a valid character
+r
+You win: Your rock beats my lizard
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+p
+You win: Your paper beats my Spock
+Enter a valid character
+p
+You win: Your paper beats my rock
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+You win: Your scissors beats my lizard
+Enter a valid character
+r
+You win: Your rock beats my lizard
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+You win: Your lizard beats my paper
+Enter a valid character
+l
+You win: Your lizard beats my paper
+Enter a valid character
+s
+I win: My rock beats your scissors
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+S
+We tied: We both played Spock
+Enter a valid character
+S
+We tied: We both played Spock
+Enter a valid character
+p
+We tied: We both played paper
+Enter a valid character
+p
+I win: My lizard beats your paper
+Enter a valid character
+S
+We tied: We both played Spock
+Enter a valid character
+s
+You win: Your scissors beats my paper
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+s
+We tied: We both played scissors
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+You win: Your rock beats my scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+Enter a valid character
+l
+You win: Your lizard beats my paper
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+l
+You win: Your lizard beats my Spock
+Enter a valid character
+l
+I win: My rock beats your lizard
+Enter a valid character
+r
+You win: Your rock beats my lizard
+Enter a valid character
+r
+We tied: We both played rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+r
+I win: My paper beats your rock
+Enter a valid character
+s
+I win: My Spock beats your scissors
+Enter a valid character
+r
+I win: My Spock beats your rock
+The game has ended.
+I've won 81 games (40.5%)
+You've won 78 games (39.0%)
+We've tied 41 games (20.5%)

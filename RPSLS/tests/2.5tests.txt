@@ -1,0 +1,1009 @@
+//Jesse Zhong, jwz2111
+
+Welcome to the RPSSL game!
+As a reminder, rock beats scissors and lizard, paper beats rock and Spock, scissors beats paper and lizard, Spock beats scissors and rock, and lizard beats Spock and paper.
+When prompted, enter 'r' for rock, 'p' for paper, 's' for scissors, 'S' for Spock, and 'l' for lizard.
+You win: Your rock beats my lizard
+I win: My scissors beats your paper
+You win: Your lizard beats my Spock
+We tied: We both played paper
+I win: My scissors beats your paper
+I win: My rock beats your lizard
+I win: My scissors beats your lizard
+You win: Your lizard beats my Spock
+I win: My Spock beats your rock
+We tied: We both played scissors
+You win: Your lizard beats my paper
+You win: Your rock beats my lizard
+We tied: We both played scissors
+I win: My rock beats your lizard
+I win: My rock beats your scissors
+We tied: We both played Spock
+I win: My rock beats your scissors
+We tied: We both played scissors
+I win: My paper beats your rock
+You win: Your lizard beats my paper
+I win: My Spock beats your scissors
+I win: My lizard beats your paper
+I win: My paper beats your rock
+You win: Your Spock beats my rock
+I win: My scissors beats your paper
+I win: My paper beats your rock
+You win: Your Spock beats my rock
+I win: My scissors beats your paper
+You win: Your paper beats my Spock
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+You win: Your Spock beats my scissors
+We tied: We both played scissors
+We tied: We both played scissors
+We tied: We both played paper
+I win: My paper beats your Spock
+I win: My Spock beats your rock
+I win: My Spock beats your scissors
+You win: Your lizard beats my Spock
+You win: Your rock beats my lizard
+I win: My rock beats your scissors
+You win: Your scissors beats my lizard
+We tied: We both played paper
+You win: Your lizard beats my paper
+You win: Your scissors beats my paper
+We tied: We both played paper
+I win: My paper beats your Spock
+I win: My scissors beats your paper
+We tied: We both played Spock
+You win: Your scissors beats my lizard
+I win: My scissors beats your paper
+I win: My paper beats your Spock
+I win: My scissors beats your lizard
+I win: My paper beats your rock
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+We tied: We both played rock
+We tied: We both played rock
+You win: Your scissors beats my lizard
+I win: My paper beats your rock
+We tied: We both played lizard
+I win: My lizard beats your paper
+I win: My lizard beats your Spock
+We tied: We both played scissors
+You win: Your Spock beats my scissors
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+You win: Your paper beats my rock
+I win: My Spock beats your scissors
+I win: My lizard beats your Spock
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+You win: Your Spock beats my rock
+We tied: We both played scissors
+I win: My scissors beats your paper
+You win: Your scissors beats my paper
+I win: My paper beats your Spock
+I win: My rock beats your lizard
+We tied: We both played paper
+I win: My scissors beats your paper
+We tied: We both played Spock
+I win: My lizard beats your paper
+You win: Your scissors beats my lizard
+I win: My lizard beats your paper
+I win: My paper beats your rock
+I win: My rock beats your lizard
+You win: Your rock beats my lizard
+We tied: We both played scissors
+I win: My Spock beats your rock
+You win: Your paper beats my rock
+I win: My rock beats your scissors
+I win: My lizard beats your Spock
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+We tied: We both played Spock
+I win: My lizard beats your paper
+We tied: We both played Spock
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+We tied: We both played Spock
+You win: Your scissors beats my lizard
+I win: My paper beats your rock
+We tied: We both played rock
+You win: Your rock beats my lizard
+You win: Your scissors beats my lizard
+I win: My lizard beats your paper
+I win: My paper beats your Spock
+I win: My scissors beats your lizard
+You win: Your lizard beats my paper
+I win: My lizard beats your paper
+You win: Your Spock beats my rock
+We tied: We both played rock
+I win: My Spock beats your scissors
+You win: Your lizard beats my Spock
+I win: My Spock beats your rock
+You win: Your rock beats my scissors
+You win: Your scissors beats my lizard
+You win: Your Spock beats my scissors
+I win: My rock beats your scissors
+I win: My scissors beats your lizard
+I win: My Spock beats your scissors
+You win: Your Spock beats my scissors
+I win: My Spock beats your rock
+We tied: We both played rock
+I win: My scissors beats your lizard
+I win: My lizard beats your Spock
+I win: My Spock beats your scissors
+I win: My scissors beats your paper
+You win: Your scissors beats my paper
+I win: My lizard beats your Spock
+We tied: We both played rock
+I win: My Spock beats your rock
+I win: My scissors beats your lizard
+You win: Your scissors beats my lizard
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+You win: Your lizard beats my Spock
+I win: My Spock beats your scissors
+I win: My Spock beats your scissors
+You win: Your scissors beats my lizard
+I win: My paper beats your Spock
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+I win: My scissors beats your paper
+You win: Your lizard beats my Spock
+You win: Your scissors beats my lizard
+You win: Your rock beats my lizard
+You win: Your Spock beats my rock
+I win: My Spock beats your scissors
+I win: My scissors beats your lizard
+We tied: We both played lizard
+You win: Your rock beats my lizard
+You win: Your scissors beats my lizard
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+You win: Your lizard beats my Spock
+I win: My paper beats your rock
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+You win: Your scissors beats my lizard
+You win: Your rock beats my scissors
+You win: Your scissors beats my lizard
+You win: Your rock beats my lizard
+We tied: We both played scissors
+I win: My Spock beats your scissors
+You win: Your scissors beats my lizard
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+You win: Your Spock beats my rock
+You win: Your paper beats my Spock
+I win: My Spock beats your rock
+I win: My rock beats your lizard
+You win: Your rock beats my lizard
+I win: My lizard beats your paper
+You win: Your paper beats my Spock
+I win: My paper beats your Spock
+You win: Your rock beats my lizard
+I win: My rock beats your scissors
+You win: Your lizard beats my paper
+I win: My paper beats your rock
+I win: My scissors beats your lizard
+You win: Your scissors beats my lizard
+I win: My lizard beats your Spock
+I win: My rock beats your lizard
+You win: Your scissors beats my paper
+I win: My paper beats your rock
+I win: My paper beats your Spock
+I win: My lizard beats your paper
+I win: My lizard beats your paper
+We tied: We both played rock
+We tied: We both played rock
+You win: Your rock beats my lizard
+You win: Your Spock beats my scissors
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+I win: My paper beats your Spock
+I win: My rock beats your lizard
+I win: My paper beats your rock
+You win: Your rock beats my scissors
+You win: Your Spock beats my scissors
+I win: My rock beats your scissors
+I win: My scissors beats your paper
+I win: My paper beats your rock
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+I win: My scissors beats your paper
+You win: Your lizard beats my paper
+I win: My lizard beats your paper
+I win: My scissors beats your lizard
+You win: Your rock beats my scissors
+You win: Your scissors beats my lizard
+I win: My paper beats your rock
+You win: Your paper beats my rock
+I win: My paper beats your rock
+I win: My rock beats your lizard
+I win: My lizard beats your paper
+You win: Your rock beats my scissors
+We tied: We both played scissors
+I win: My scissors beats your paper
+You win: Your lizard beats my paper
+I win: My Spock beats your scissors
+I win: My Spock beats your rock
+We tied: We both played rock
+We tied: We both played rock
+I win: My scissors beats your lizard
+I win: My lizard beats your paper
+I win: My scissors beats your lizard
+You win: Your lizard beats my Spock
+You win: Your scissors beats my paper
+You win: Your rock beats my scissors
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+You win: Your scissors beats my lizard
+You win: Your rock beats my lizard
+I win: My rock beats your scissors
+You win: Your paper beats my Spock
+I win: My Spock beats your scissors
+I win: My lizard beats your Spock
+We tied: We both played rock
+I win: My paper beats your Spock
+We tied: We both played Spock
+You win: Your Spock beats my rock
+You win: Your paper beats my rock
+I win: My rock beats your scissors
+You win: Your rock beats my lizard
+You win: Your scissors beats my lizard
+We tied: We both played paper
+You win: Your lizard beats my paper
+You win: Your scissors beats my paper
+You win: Your rock beats my lizard
+You win: Your paper beats my rock
+We tied: We both played rock
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+You win: Your Spock beats my rock
+I win: My scissors beats your paper
+I win: My Spock beats your scissors
+We tied: We both played lizard
+You win: Your lizard beats my paper
+I win: My Spock beats your scissors
+You win: Your Spock beats my rock
+I win: My scissors beats your paper
+You win: Your paper beats my Spock
+I win: My Spock beats your scissors
+You win: Your rock beats my lizard
+You win: Your paper beats my rock
+I win: My paper beats your Spock
+I win: My scissors beats your lizard
+You win: Your lizard beats my paper
+I win: My Spock beats your scissors
+You win: Your paper beats my rock
+I win: My paper beats your Spock
+I win: My Spock beats your rock
+You win: Your Spock beats my rock
+You win: Your paper beats my Spock
+I win: My paper beats your rock
+I win: My rock beats your lizard
+We tied: We both played lizard
+You win: Your paper beats my Spock
+We tied: We both played Spock
+I win: My rock beats your lizard
+You win: Your lizard beats my paper
+I win: My Spock beats your scissors
+We tied: We both played paper
+I win: My paper beats your rock
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+You win: Your Spock beats my scissors
+We tied: We both played scissors
+We tied: We both played scissors
+I win: My lizard beats your paper
+I win: My paper beats your rock
+You win: Your Spock beats my rock
+You win: Your paper beats my rock
+I win: My rock beats your scissors
+You win: Your rock beats my lizard
+I win: My lizard beats your paper
+You win: Your paper beats my Spock
+I win: My Spock beats your rock
+We tied: We both played rock
+We tied: We both played scissors
+I win: My paper beats your Spock
+You win: Your paper beats my rock
+I win: My rock beats your scissors
+I win: My lizard beats your Spock
+We tied: We both played rock
+I win: My lizard beats your paper
+You win: Your paper beats my Spock
+You win: Your Spock beats my rock
+We tied: We both played scissors
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+I win: My Spock beats your rock
+I win: My rock beats your lizard
+You win: Your rock beats my lizard
+I win: My scissors beats your paper
+I win: My Spock beats your scissors
+I win: My lizard beats your Spock
+I win: My rock beats your scissors
+You win: Your Spock beats my scissors
+We tied: We both played rock
+You win: Your rock beats my scissors
+You win: Your scissors beats my lizard
+I win: My lizard beats your paper
+I win: My paper beats your Spock
+I win: My scissors beats your lizard
+We tied: We both played paper
+You win: Your lizard beats my Spock
+I win: My paper beats your rock
+We tied: We both played scissors
+You win: Your scissors beats my paper
+We tied: We both played paper
+You win: Your lizard beats my paper
+I win: My paper beats your rock
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+I win: My Spock beats your rock
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+You win: Your Spock beats my rock
+You win: Your paper beats my rock
+We tied: We both played rock
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+You win: Your Spock beats my rock
+I win: My Spock beats your scissors
+I win: My scissors beats your lizard
+We tied: We both played paper
+I win: My Spock beats your rock
+I win: My rock beats your lizard
+I win: My lizard beats your Spock
+You win: Your paper beats my Spock
+We tied: We both played rock
+We tied: We both played rock
+We tied: We both played rock
+I win: My lizard beats your paper
+I win: My Spock beats your scissors
+You win: Your scissors beats my lizard
+We tied: We both played paper
+I win: My paper beats your rock
+You win: Your paper beats my rock
+We tied: We both played Spock
+You win: Your scissors beats my paper
+We tied: We both played paper
+We tied: We both played paper
+We tied: We both played Spock
+I win: My lizard beats your paper
+We tied: We both played lizard
+We tied: We both played paper
+You win: Your rock beats my scissors
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+You win: Your scissors beats my lizard
+You win: Your rock beats my lizard
+I win: My lizard beats your paper
+You win: Your lizard beats my Spock
+You win: Your rock beats my lizard
+I win: My lizard beats your paper
+We tied: We both played Spock
+You win: Your paper beats my Spock
+We tied: We both played rock
+We tied: We both played rock
+I win: My scissors beats your paper
+You win: Your lizard beats my Spock
+You win: Your scissors beats my paper
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+I win: My Spock beats your rock
+I win: My rock beats your lizard
+I win: My lizard beats your paper
+You win: Your Spock beats my rock
+We tied: We both played scissors
+I win: My scissors beats your paper
+We tied: We both played paper
+We tied: We both played rock
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+I win: My Spock beats your rock
+I win: My rock beats your lizard
+You win: Your scissors beats my lizard
+You win: Your Spock beats my scissors
+I win: My rock beats your scissors
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+I win: My rock beats your scissors
+We tied: We both played lizard
+I win: My scissors beats your lizard
+I win: My paper beats your Spock
+I win: My Spock beats your scissors
+I win: My scissors beats your paper
+You win: Your lizard beats my paper
+You win: Your rock beats my lizard
+I win: My lizard beats your Spock
+You win: Your Spock beats my scissors
+I win: My Spock beats your rock
+You win: Your rock beats my lizard
+You win: Your Spock beats my rock
+You win: Your paper beats my rock
+We tied: We both played Spock
+I win: My lizard beats your paper
+I win: My Spock beats your scissors
+You win: Your rock beats my lizard
+You win: Your Spock beats my rock
+We tied: We both played rock
+I win: My lizard beats your paper
+You win: Your lizard beats my Spock
+You win: Your scissors beats my paper
+I win: My lizard beats your paper
+We tied: We both played paper
+You win: Your lizard beats my Spock
+I win: My Spock beats your rock
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+I win: My Spock beats your rock
+We tied: We both played rock
+I win: My lizard beats your paper
+I win: My Spock beats your rock
+I win: My rock beats your scissors
+I win: My Spock beats your scissors
+I win: My scissors beats your paper
+I win: My paper beats your Spock
+You win: Your lizard beats my paper
+You win: Your rock beats my lizard
+I win: My lizard beats your Spock
+You win: Your lizard beats my paper
+You win: Your scissors beats my paper
+You win: Your rock beats my lizard
+I win: My lizard beats your Spock
+I win: My paper beats your rock
+I win: My rock beats your lizard
+You win: Your rock beats my lizard
+You win: Your Spock beats my rock
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+You win: Your paper beats my rock
+I win: My rock beats your scissors
+I win: My lizard beats your Spock
+You win: Your paper beats my rock
+I win: My paper beats your rock
+I win: My rock beats your scissors
+You win: Your rock beats my lizard
+I win: My lizard beats your Spock
+We tied: We both played Spock
+I win: My scissors beats your lizard
+You win: Your scissors beats my paper
+I win: My paper beats your rock
+You win: Your scissors beats my lizard
+We tied: We both played paper
+I win: My paper beats your rock
+I win: My rock beats your lizard
+You win: Your scissors beats my lizard
+We tied: We both played paper
+We tied: We both played paper
+I win: My paper beats your Spock
+I win: My Spock beats your scissors
+We tied: We both played scissors
+I win: My scissors beats your lizard
+You win: Your lizard beats my paper
+I win: My paper beats your rock
+We tied: We both played scissors
+You win: Your paper beats my Spock
+I win: My Spock beats your scissors
+You win: Your rock beats my lizard
+I win: My lizard beats your Spock
+You win: Your Spock beats my scissors
+You win: Your paper beats my Spock
+You win: Your Spock beats my rock
+We tied: We both played scissors
+You win: Your Spock beats my scissors
+We tied: We both played scissors
+You win: Your rock beats my scissors
+I win: My rock beats your scissors
+We tied: We both played lizard
+I win: My scissors beats your paper
+You win: Your scissors beats my lizard
+I win: My scissors beats your paper
+I win: My paper beats your rock
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+I win: My rock beats your scissors
+We tied: We both played rock
+I win: My lizard beats your paper
+I win: My Spock beats your scissors
+I win: My lizard beats your Spock
+You win: Your Spock beats my rock
+You win: Your paper beats my rock
+I win: My paper beats your Spock
+We tied: We both played scissors
+I win: My scissors beats your lizard
+I win: My paper beats your Spock
+You win: Your lizard beats my Spock
+You win: Your scissors beats my lizard
+We tied: We both played paper
+We tied: We both played paper
+You win: Your scissors beats my paper
+I win: My paper beats your Spock
+You win: Your Spock beats my rock
+I win: My scissors beats your paper
+We tied: We both played rock
+We tied: We both played rock
+I win: My scissors beats your lizard
+I win: My lizard beats your paper
+I win: My lizard beats your Spock
+We tied: We both played scissors
+I win: My scissors beats your paper
+I win: My paper beats your Spock
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+I win: My lizard beats your paper
+I win: My paper beats your Spock
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+You win: Your scissors beats my paper
+I win: My lizard beats your Spock
+You win: Your paper beats my rock
+You win: Your Spock beats my rock
+We tied: We both played scissors
+I win: My scissors beats your paper
+I win: My paper beats your rock
+I win: My rock beats your scissors
+You win: Your Spock beats my scissors
+You win: Your paper beats my Spock
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+You win: Your Spock beats my scissors
+I win: My rock beats your scissors
+We tied: We both played scissors
+I win: My paper beats your Spock
+I win: My rock beats your lizard
+We tied: We both played paper
+You win: Your lizard beats my Spock
+You win: Your scissors beats my paper
+I win: My paper beats your rock
+You win: Your lizard beats my paper
+I win: My paper beats your rock
+You win: Your rock beats my scissors
+You win: Your Spock beats my rock
+I win: My Spock beats your scissors
+We tied: We both played scissors
+We tied: We both played scissors
+I win: My paper beats your Spock
+You win: Your paper beats my rock
+We tied: We both played rock
+I win: My rock beats your lizard
+I win: My lizard beats your paper
+I win: My lizard beats your Spock
+We tied: We both played lizard
+You win: Your scissors beats my paper
+I win: My lizard beats your paper
+You win: Your lizard beats my paper
+We tied: We both played paper
+You win: Your paper beats my Spock
+I win: My rock beats your scissors
+We tied: We both played lizard
+I win: My paper beats your rock
+We tied: We both played scissors
+I win: My lizard beats your paper
+I win: My paper beats your rock
+You win: Your paper beats my rock
+I win: My rock beats your scissors
+You win: Your rock beats my lizard
+I win: My lizard beats your paper
+You win: Your lizard beats my Spock
+You win: Your scissors beats my lizard
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+I win: My Spock beats your rock
+I win: My rock beats your scissors
+I win: My Spock beats your rock
+I win: My lizard beats your paper
+We tied: We both played Spock
+We tied: We both played lizard
+You win: Your scissors beats my paper
+I win: My lizard beats your paper
+I win: My paper beats your Spock
+I win: My scissors beats your paper
+I win: My rock beats your lizard
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+I win: My lizard beats your Spock
+I win: My Spock beats your rock
+We tied: We both played Spock
+You win: Your paper beats my Spock
+I win: My Spock beats your rock
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+We tied: We both played scissors
+We tied: We both played lizard
+I win: My scissors beats your paper
+You win: Your paper beats my Spock
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+You win: Your Spock beats my rock
+I win: My scissors beats your paper
+You win: Your scissors beats my lizard
+You win: Your Spock beats my scissors
+I win: My Spock beats your scissors
+You win: Your rock beats my scissors
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+We tied: We both played rock
+You win: Your rock beats my lizard
+I win: My lizard beats your Spock
+I win: My Spock beats your scissors
+You win: Your rock beats my scissors
+I win: My scissors beats your paper
+I win: My Spock beats your scissors
+I win: My lizard beats your Spock
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+I win: My lizard beats your Spock
+You win: Your Spock beats my scissors
+I win: My Spock beats your rock
+I win: My lizard beats your paper
+You win: Your lizard beats my Spock
+I win: My Spock beats your scissors
+You win: Your lizard beats my Spock
+You win: Your rock beats my lizard
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+You win: Your Spock beats my scissors
+I win: My Spock beats your rock
+We tied: We both played Spock
+We tied: We both played paper
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+You win: Your rock beats my lizard
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+You win: Your Spock beats my scissors
+I win: My Spock beats your rock
+We tied: We both played lizard
+You win: Your rock beats my lizard
+I win: My lizard beats your paper
+We tied: We both played Spock
+We tied: We both played paper
+We tied: We both played paper
+You win: Your lizard beats my Spock
+You win: Your rock beats my lizard
+You win: Your Spock beats my rock
+I win: My Spock beats your scissors
+I win: My scissors beats your lizard
+We tied: We both played scissors
+I win: My Spock beats your rock
+We tied: We both played Spock
+I win: My rock beats your lizard
+I win: My paper beats your rock
+I win: My scissors beats your paper
+You win: Your lizard beats my Spock
+You win: Your scissors beats my paper
+You win: Your Spock beats my scissors
+I win: My Spock beats your rock
+You win: Your Spock beats my rock
+I win: My Spock beats your scissors
+I win: My scissors beats your lizard
+I win: My lizard beats your Spock
+We tied: We both played Spock
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+You win: Your paper beats my rock
+I win: My paper beats your Spock
+We tied: We both played Spock
+We tied: We both played scissors
+We tied: We both played scissors
+I win: My lizard beats your paper
+We tied: We both played paper
+I win: My paper beats your Spock
+You win: Your rock beats my scissors
+You win: Your scissors beats my lizard
+We tied: We both played paper
+I win: My paper beats your rock
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+I win: My scissors beats your lizard
+You win: Your scissors beats my paper
+I win: My lizard beats your Spock
+You win: Your paper beats my rock
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+You win: Your Spock beats my rock
+I win: My scissors beats your paper
+You win: Your Spock beats my scissors
+I win: My Spock beats your rock
+You win: Your rock beats my lizard
+I win: My rock beats your scissors
+We tied: We both played scissors
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+You win: Your Spock beats my rock
+You win: Your paper beats my rock
+We tied: We both played rock
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+I win: My scissors beats your lizard
+We tied: We both played scissors
+You win: Your rock beats my scissors
+You win: Your Spock beats my rock
+You win: Your paper beats my rock
+I win: My paper beats your rock
+I win: My rock beats your scissors
+We tied: We both played scissors
+You win: Your lizard beats my paper
+I win: My Spock beats your scissors
+I win: My lizard beats your paper
+You win: Your lizard beats my paper
+You win: Your scissors beats my paper
+I win: My paper beats your Spock
+You win: Your Spock beats my rock
+I win: My Spock beats your rock
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+I win: My Spock beats your scissors
+You win: Your scissors beats my lizard
+I win: My lizard beats your Spock
+We tied: We both played rock
+You win: Your Spock beats my scissors
+We tied: We both played scissors
+We tied: We both played scissors
+I win: My scissors beats your lizard
+We tied: We both played paper
+I win: My paper beats your Spock
+I win: My Spock beats your rock
+You win: Your paper beats my Spock
+We tied: We both played Spock
+You win: Your lizard beats my paper
+We tied: We both played paper
+You win: Your lizard beats my paper
+You win: Your scissors beats my lizard
+I win: My lizard beats your paper
+I win: My paper beats your rock
+I win: My rock beats your lizard
+You win: Your scissors beats my lizard
+I win: My lizard beats your paper
+You win: Your lizard beats my paper
+You win: Your rock beats my lizard
+You win: Your scissors beats my lizard
+I win: My lizard beats your Spock
+I win: My rock beats your lizard
+You win: Your scissors beats my paper
+I win: My lizard beats your Spock
+I win: My rock beats your lizard
+You win: Your lizard beats my paper
+You win: Your rock beats my lizard
+I win: My lizard beats your Spock
+You win: Your paper beats my rock
+We tied: We both played rock
+You win: Your Spock beats my rock
+You win: Your paper beats my Spock
+We tied: We both played Spock
+You win: Your paper beats my rock
+We tied: We both played rock
+You win: Your paper beats my rock
+I win: My Spock beats your rock
+We tied: We both played rock
+We tied: We both played rock
+I win: My rock beats your lizard
+I win: My lizard beats your Spock
+I win: My Spock beats your rock
+I win: My rock beats your lizard
+I win: My lizard beats your Spock
+We tied: We both played Spock
+I win: My scissors beats your paper
+I win: My paper beats your rock
+You win: Your paper beats my rock
+I win: My Spock beats your scissors
+You win: Your scissors beats my lizard
+I win: My paper beats your Spock
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+I win: My lizard beats your paper
+You win: Your scissors beats my paper
+I win: My lizard beats your paper
+I win: My paper beats your Spock
+I win: My scissors beats your paper
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+I win: My Spock beats your scissors
+I win: My lizard beats your Spock
+You win: Your paper beats my rock
+You win: Your Spock beats my rock
+We tied: We both played scissors
+We tied: We both played scissors
+You win: Your rock beats my scissors
+I win: My scissors beats your paper
+You win: Your paper beats my Spock
+You win: Your Spock beats my rock
+You win: Your rock beats my scissors
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+I win: My scissors beats your lizard
+We tied: We both played lizard
+You win: Your lizard beats my paper
+We tied: We both played paper
+I win: My rock beats your lizard
+I win: My Spock beats your scissors
+You win: Your Spock beats my scissors
+We tied: We both played scissors
+I win: My scissors beats your lizard
+I win: My Spock beats your scissors
+I win: My scissors beats your paper
+You win: Your lizard beats my paper
+You win: Your scissors beats my lizard
+I win: My paper beats your Spock
+We tied: We both played rock
+We tied: We both played scissors
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+We tied: We both played paper
+You win: Your paper beats my Spock
+You win: Your Spock beats my rock
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+We tied: We both played rock
+You win: Your paper beats my rock
+I win: My paper beats your rock
+I win: My rock beats your scissors
+I win: My scissors beats your lizard
+You win: Your rock beats my scissors
+I win: My rock beats your scissors
+You win: Your rock beats my lizard
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+I win: My lizard beats your Spock
+I win: My rock beats your lizard
+You win: Your scissors beats my paper
+I win: My paper beats your rock
+You win: Your paper beats my Spock
+We tied: We both played rock
+I win: My rock beats your scissors
+We tied: We both played Spock
+I win: My rock beats your scissors
+You win: Your Spock beats my scissors
+We tied: We both played scissors
+I win: My scissors beats your paper
+I win: My paper beats your rock
+I win: My rock beats your lizard
+You win: Your rock beats my lizard
+You win: Your scissors beats my lizard
+I win: My paper beats your Spock
+I win: My rock beats your scissors
+I win: My scissors beats your lizard
+You win: Your lizard beats my Spock
+I win: My lizard beats your paper
+I win: My lizard beats your Spock
+You win: Your scissors beats my paper
+You win: Your Spock beats my scissors
+I win: My Spock beats your scissors
+You win: Your rock beats my scissors
+I win: My lizard beats your paper
+I win: My Spock beats your scissors
+I win: My lizard beats your Spock
+We tied: We both played rock
+I win: My Spock beats your scissors
+You win: Your Spock beats my scissors
+I win: My Spock beats your scissors
+I win: My scissors beats your paper
+You win: Your lizard beats my paper
+I win: My Spock beats your rock
+We tied: We both played scissors
+You win: Your paper beats my Spock
+I win: My Spock beats your scissors
+I win: My lizard beats your paper
+I win: My paper beats your rock
+I win: My rock beats your lizard
+I win: My lizard beats your Spock
+I win: My Spock beats your rock
+You win: Your rock beats my scissors
+We tied: We both played scissors
+I win: My rock beats your lizard
+I win: My rock beats your lizard
+We tied: We both played Spock
+We tied: We both played Spock
+I win: My Spock beats your rock
+You win: Your lizard beats my Spock
+You win: Your scissors beats my lizard
+I win: My paper beats your Spock
+I win: My rock beats your scissors
+I win: My scissors beats your paper
+I win: My paper beats your Spock
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+You win: Your lizard beats my Spock
+I win: My paper beats your rock
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+I win: My paper beats your rock
+I win: My rock beats your lizard
+You win: Your scissors beats my lizard
+I win: My paper beats your rock
+I win: My lizard beats your Spock
+I win: My Spock beats your scissors
+You win: Your rock beats my scissors
+I win: My rock beats your scissors
+I win: My rock beats your lizard
+I win: My Spock beats your scissors
+I win: My paper beats your rock
+You win: Your paper beats my Spock
+I win: My Spock beats your rock
+I win: My rock beats your scissors
+I win: My Spock beats your rock
+You win: Your scissors beats my paper
+I win: My paper beats your Spock
+I win: My rock beats your lizard
+I win: My paper beats your rock
+I win: My scissors beats your lizard
+You win: Your scissors beats my lizard
+I win: My scissors beats your paper
+You win: Your scissors beats my paper
+I win: My scissors beats your paper
+You win: Your lizard beats my paper
+We tied: We both played paper
+I win: My scissors beats your paper
+I win: My rock beats your scissors
+I win: My lizard beats your paper
+I win: My paper beats your rock
+I win: My rock beats your lizard
+I win: My lizard beats your Spock
+You win: Your paper beats my Spock
+I win: My paper beats your rock
+We tied: We both played rock
+You win: Your Spock beats my rock
+You win: Your paper beats my Spock
+You win: Your scissors beats my paper
+I win: My paper beats your rock
+You win: Your lizard beats my paper
+You win: Your paper beats my Spock
+I win: My paper beats your rock
+I win: My rock beats your lizard
+I win: My lizard beats your Spock
+I win: My Spock beats your scissors
+We tied: We both played scissors
+I win: My scissors beats your lizard
+You win: Your paper beats my Spock
+I win: My Spock beats your rock
+I win: My rock beats your lizard
+You win: Your scissors beats my lizard
+You win: Your Spock beats my scissors
+I win: My scissors beats your paper
+I win: My scissors beats your lizard
+I win: My lizard beats your paper
+You win: Your lizard beats my Spock
+I win: My Spock beats your scissors
+You win: Your paper beats my rock
+We tied: We both played Spock
+I win: My scissors beats your lizard
+You win: Your scissors beats my paper
+You win: Your rock beats my lizard
+I win: My rock beats your scissors
+You win: Your rock beats my scissors
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+I win: My paper beats your rock
+You win: Your paper beats my rock
+You win: Your scissors beats my paper
+I win: My paper beats your Spock
+I win: My rock beats your lizard
+You win: Your scissors beats my paper
+I win: My paper beats your Spock
+The game has ended.
+I've won 451 games (45.1%)
+You've won 392 games (39.2%)
+We've tied 157 games (15.7%)
