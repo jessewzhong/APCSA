@@ -1,2 +1,2 @@
-# APCSA
-AP Computer Science A projects
+# Projects
+Personal Projects
