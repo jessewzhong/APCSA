@@ -1,0 +1,186 @@
+//Jesse Zhong, jwz2111
+//contains all tests
+
+Testing V1
+
+Error messages when instantiating a1:
+Error messages when instantiating a2:
+Error messages when instantiating a3:
+int at index 4 exceeds 255, replaced with 255.
+int at index 5 exceeds 255, replaced with 255.
+Error messages when instantiating a4:
+int at index 3 is below 0, replaced with 0.
+Error messages when instantiating a5:
+
+Printing the RLESequences we are using:
+a1: []
+a2: [255 255 255 255 255 255 255 255 255 255]
+a3: [100 23 45 24 255 255 143 111]
+a4: [111 82 123 0 43 43 43 100]
+a5: [111 90 123 0 43 43 43 100]
+
+Testing the insertValue method
+Inserting 1 to empty a1:
+a1: [1]
+Inserting 24 at index 4 to a3:
+a3: [100 23 45 24 24 255 255 143 111]
+
+Testing the setValue method
+Setting 270 to index 6 of a3:
+value exceeds 255, replaced with 255.
+a3: [100 23 45 24 24 255 255 143 111]
+Setting 90 to index 1 of a4:
+a4: [111 90 123 0 43 43 43 100]
+
+Testing the getValue method
+Getting value at index 3 of a4:
+a4: 0
+Getting value at index 100 of a2:
+Error: index requested is out of range. Try again. Returned a 0.
+a4: 0
+
+Testing the getLength method
+Getting length of a3:
+a3: 9
+
+Testing the equals method
+Testing a1 and a2:
+a1 and a2: false
+Testing a4 and a5:
+a4 and a5: true
+
+Testing the addToHead method
+Testing a4.addToHead(a2):
+a4: [255 255 255 255 255 255 255 255 255 255 111 90 123 0 43 43 43 100]
+
+Testing the addToTail method
+Testing a3.addToTail(a5):
+a3: [100 23 45 24 24 255 255 143 111 111 90 123 0 43 43 43 100]
+-----------------------------------------------------------------------------
+
+
+Testing V2
+
+Error messages when instantiating b1:
+Error messages when instantiating b2:
+Error messages when instantiating b3:
+Value at index 4 exceeds 255, replaced with 255.
+Value at index 5 exceeds 255, replaced with 255.
+Error messages when instantiating b4:
+Value at index 3 is below 0, replaced with 0.
+Error messages when instantiating b5:
+
+Printing the RLESequences we are using:
+b1: []
+b2: [255 255 255 255 255 255 255 255 255 255]
+b3: [100 23 45 24 255 255 143 111]
+b4: [111 82 123 0 43 43 43 100]
+b5: [111 90 123 0 43 43 43 100]
+
+Testing the insertValue method
+Inserting 1 to empty b1:
+b1: [1]
+Inserting 24 at index 4 to b3:
+b3: [100 23 45 24 24 255 255 143 111]
+
+Testing the setValue method
+Setting 270 to index 6 of b3:
+value exceeds 255, replaced with 255.
+b3: [100 23 45 24 24 255 255 143 111]
+Setting 90 to index 1 of b4:
+b4: [111 90 123 0 43 43 43 100]
+
+Testing the getValue method
+Getting value at index 3 of b4:
+b4: 0
+Getting value at index 100 of b2:
+Error: index requested is out of range. Try again. Returned a 0.
+b4: 0
+
+Testing the getLength method
+Getting length of b3:
+b3: 9
+
+Testing the equals method
+Testing b1 and b2:
+b1 and b2: false
+Testing b4 and b5:
+b4 and b5: true
+
+Testing the addToHead method
+Testing b4.addToHead(b2):
+b4: [255 255 255 255 255 255 255 255 255 255 111 90 123 0 43 43 43 100]
+
+Testing the addToTail method
+Testing b3.addToTail(b5):
+b3: [100 23 45 24 24 255 255 143 111 111 90 123 0 43 43 43 100]
+-----------------------------------------------------------------------------
+
+
+Testing V3
+
+Error messages when instantiating c1:
+Error messages when instantiating c2:
+Error messages when instantiating c3:
+Value at index 4 exceeds 255, replaced with 255.
+Value at index 5 exceeds 255, replaced with 255.
+Error messages when instantiating c4:
+Value at index 3 is below 0, replaced with 0.
+Error messages when instantiating c5:
+
+Printing the RLESequences we are using:
+c1: []
+c2: [255 255 255 255 255 255 255 255 255 255]
+c3: [100 23 45 24 255 255 143 111]
+c4: [111 82 123 0 43 43 43 100]
+c5: [111 90 123 0 43 43 43 100]
+
+Testing the insertValue method
+Inserting 1 to empty c1:
+c1: [1]
+Inserting 24 at index 4 to c3:
+c3: [100 23 45 24 24 255 255 143 111]
+
+Testing the setValue method
+Setting 270 to index 6 of c3:
+value exceeds 255, replaced with 255.
+c3: [100 23 45 24 24 255 255 143 111]
+Setting 90 to index 1 of c4:
+c4: [111 90 123 0 43 43 43 100]
+
+Testing the getValue method
+Getting value at index 3 of c4:
+c4: 0
+Getting value at index 100 of c2:
+Error: index requested is out of range. Try again. Returned a 0.
+c4: 0
+
+Testing the getLength method
+Getting length of c3:
+c3: 9
+
+Testing the equals method
+Testing c1 and c2:
+c1 and c2: false
+Testing c4 and c5:
+c4 and c5: true
+
+Testing the addToHead method
+Testing c4.addToHead(c2):
+c4: [255 255 255 255 255 255 255 255 255 255 111 90 123 0 43 43 43 100]
+
+Testing the addToTail method
+Testing c3.addToTail(c5):
+c3: [100 23 45 24 24 255 255 143 111 111 90 123 0 43 43 43 100]
+Testing the changeValues method
+Testing c3.changeValues(160)
+Value at index 0 to 0 (260) now exceed 255, replaced with 255.
+Value at index 5 to 6 (415) now exceed 255, replaced with 255.
+Value at index 7 to 7 (303) now exceed 255, replaced with 255.
+Value at index 8 to 9 (271) now exceed 255, replaced with 255.
+Value at index 11 to 11 (283) now exceed 255, replaced with 255.
+Value at index 16 to 16 (260) now exceed 255, replaced with 255.
+c3: [255 183 205 184 184 255 255 255 255 255 250 255 160 203 203 203 255]
+-----------------------------------------------------------------------------
+
+
