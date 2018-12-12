@@ -1,0 +1,2 @@
+Using TSVFilter with file: C:\Users\jesse\eclipse-workspace\Assignment 3\src\input.txt and select: (null, null) and compute: (null, null)
+First line doesn't exist

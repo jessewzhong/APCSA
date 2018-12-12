@@ -1,0 +1,7 @@
+Name	Age	Cell Phone	Zip Code
+String	long	long	long
+Frank	20	2121117777	10027
+
+Tony	18	2010001123	99876
+19	18	Tony	334433
+Ann	19	9171118421	43210

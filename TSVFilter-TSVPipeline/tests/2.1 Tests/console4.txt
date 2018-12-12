@@ -1,0 +1,7 @@
+Using TSVFilter with file: C:\Users\jesse\eclipse-workspace\Assignment 3\src\input.txt and select: (null, null) and compute: (null, null)
+These are the data fields entered:
+Name
+Age
+Cell Phone
+Zip Code
+Input data types not valid
