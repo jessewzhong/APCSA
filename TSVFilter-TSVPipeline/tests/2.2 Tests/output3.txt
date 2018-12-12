@@ -1,0 +1,2 @@
+Name	Age	Cell Phone	Zip Code
+String	long	long	long

@@ -1,0 +1,13 @@
+Using TSVFilter with file: C:\Users\jesse\eclipse-workspace\Assignment 3\src\input.txt and select: (Age, 20) and compute: (null, null)
+These are the data fields entered:
+Name
+Age
+Cell Phone
+Zip Code
+These are the data types entered:
+String
+long
+long
+long
+Copied all valid data entries (with filter) into new output.txt file
+Input file doesn't have proper form

@@ -1,0 +1,4 @@
+Name	Age	Cell Phone	Zip Code
+String	long	long	long
+Molly	22	2121115432	10027
+Molly	19	9171118421	43210
